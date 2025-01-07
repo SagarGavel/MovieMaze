@@ -1,2 +1,0 @@
-# MovieMaze
-Webpage for Movies
